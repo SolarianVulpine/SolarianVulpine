@@ -41,8 +41,8 @@ Hello! My name is **Torin**, a student at Atlas School Tulsa, passionate about c
 
 ## Featured Projects
 
-- **[Learn-a-Word Website]([project-link](https://github.com/SolarianVulpine/Learn-a-Word))**: A website designed around practicing api access and design. Themed around learning random words and their definitions.
-- **[Name2RGB]([another-project-link](https://github.com/SolarianVulpine/nameToRGB))**: Simple C language program to convert First, Middle, and Last names (or any three words) to an RGB value.
+- **[Learn-a-Word Website](https://github.com/SolarianVulpine/Learn-a-Word)**: A website designed around practicing api access and design. Themed around learning random words and their definitions.
+- **[Name2RGB](https://github.com/SolarianVulpine/nameToRGB)**: Simple C language program to convert First, Middle, and Last names (or any three words) to an RGB value.
 ---
 
 <!---
