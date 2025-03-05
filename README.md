@@ -8,7 +8,7 @@ Hello! My name is **Torin**, a student at Atlas School Tulsa, passionate about c
 
 - **👀 Interests:** Web applications, simple narrative game design
 - **🌱 Currently Learning:** Procedural and object-oriented programming
-- **📫 Contact:** [Email](mailto:torinteale+github@gmail.com?subject=[GitHub Communication]) [LinkedIn](www.linkedin.com/in/torin-teale)
+- **📫 Contact:** [LinkedIn](www.linkedin.com/in/torin-teale) or [Email me](mailto:torinteale+github@gmail.com?subject=GitHub%20Communication)
 - **😄 Pronouns:** He/Him, They/Them
 - **⚡ Hobbies:**
   - PC gaming
