@@ -1,25 +1,50 @@
-# Hello! Welcome to my Github Profile ^-^
-My name is **Torin**! I am a Student at Atlas School Tulsa.<br></br>
-This profile is in use for both personal and acedemic projects.<br></br>
-My handle on most platforms is **@SolarianVulpine**
+# Welcome to My GitHub Profile!
 
+Hello! My name is **Torin**, a student at Atlas School Tulsa, passionate about coding and design. This profile is a hub for both my personal and academic projects. You can find me on various platforms with the handle **@SolarianVulpine**.
 
-## Fundamental Info About Me 
+---
 
-- 👀 Coding projects I’m interested in are web applications and simple narrative game design.
-- 🌱 I’m currently learning procedural and object oriented programming.
-- 📫 How to reach me: Please email any queries to [SolarianVulpine](mailto:solarianvulpine+github@gmail.com?subject=[GitHub])
-- 😄 Pronouns: My pronouns are He/Him and They/Them ← These are non-negotiable.
-- ⚡ Some interests I have besides coding include:
+## About Me
+
+- **👀 Interests:** Web applications, simple narrative game design
+- **🌱 Currently Learning:** Procedural and object-oriented programming
+- **📫 Contact:** [Email](mailto:torinteale+github@gmail.com?subject=[GitHub Communication]) [LinkedIn](www.linkedin.com/in/torin-teale)
+- **😄 Pronouns:** He/Him, They/Them
+- **⚡ Hobbies:**
   - PC gaming
   - Cooking
-  - D&D and Narrative Character Design
-  - Illusration (That is to say; I draw)
+  - D&D and narrative character design
+  - Illustration (yes, I draw)
 
-## Languages I have experience in:
-- C
-- C#
-- CSS/Html
+---
+
+## Skills
+
+- Full Stack Development
+- User Experience (UX) Design
+- Problem-Solving
+- Project Management
+- Communication
+- Adaptability
+
+---
+
+## Programming Languages
+
+- **C**
+- **C#**
+- **HTML/CSS**
+- **JavaScript**
+- **Bash**
+
+---
+
+## Featured Projects
+
+- **[Learn-a-Word Website]([project-link](https://github.com/SolarianVulpine/Learn-a-Word))**: A website designed around practicing api access and design. Themed around learning random words and their definitions.
+- **[Name2RGB]([another-project-link](https://github.com/SolarianVulpine/nameToRGB))**: Simple C language program to convert First, Middle, and Last names (or any three words) to an RGB value.
+---
+
 <!---
 SolarianVulpine/SolarianVulpine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
